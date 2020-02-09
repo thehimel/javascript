@@ -1,4 +1,6 @@
 /*
+Reference: https://www.udemy.com/course/the-complete-javascript-course/
+
 Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula:
 BMI = mass / height^2 (mass in kg and height in meter).
 

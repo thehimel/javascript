@@ -1,3 +1,5 @@
+//Reference: https://www.udemy.com/course/the-complete-javascript-course/
+
 var firstName = 'John';
 console.log(firstName);
 
